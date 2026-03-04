@@ -13,4 +13,4 @@ Features:
 
 🌐 Content ready for web publishing
 
-Visit the live site: https://sadshayaris.in/
+Visit the live site: https://instabiohit.in/
